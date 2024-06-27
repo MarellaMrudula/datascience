@@ -1,7 +1,7 @@
 
 ![Data Scientist](assets/images/profile pic.jpg){: style="border-radius: 50%; width: 50px; height: 50px;"}
 
-
+Data Scientist
 
 ## About Me
 I am an enthusiastic and dedicated data scientist with a keen interest in uncovering insights from complex data. With a strong educational background and hands-on experience in various data science projects, I am eager to contribute to innovative solutions and drive data-driven decision-making.
