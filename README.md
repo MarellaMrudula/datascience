@@ -1,4 +1,6 @@
 # datascience
+![Data Scientist](assets/images/profile.jpg)
+
 # Your Name
 
 ## About Me
