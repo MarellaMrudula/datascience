@@ -1,5 +1,5 @@
 # datascience
-![Data Scientist](assets/images/profile.jpg)
+![Data Scientist](assets/images/profile pic.jpg)
 
 # Your Name
 
