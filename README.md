@@ -1,4 +1,4 @@
-# Data Scientist
+
 
 <div style="text-align: center;">
   <img src="assets/images/profile pic.jpg" alt="Data Scientist" style="border-radius: 50%; width: 200px; height: 200px;">
