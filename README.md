@@ -1,7 +1,7 @@
 
 
 <div style="text-align: center;">
-  <img src="assets/images/profile_pic.jpg" alt="Data Scientist" style="border-radius: 50%; width: 100px; height: 100px;">
+  <img src="assets/images/profile pic.jpg" alt="Data Scientist" style="border-radius: 50%; width: 100px; height: 100px;">
 </div>
 
 ## About Me
